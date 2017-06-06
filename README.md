@@ -1,2 +1,2 @@
 # broker-everywhere
-Opens trade broker everywhere when using trigger item (the cheap hp pot).
+Opens trade broker everywhere when using trigger item (cheap hp pot).
